@@ -79,7 +79,7 @@ def show_random_image_with_prediction(images_path, model, device, class_to_idx, 
             idx_to_class = {idx: class_name for class_name, idx in class_to_idx.items()}
             predicted_class = idx_to_class[predicted_idx.item()]
 
-        print("uwu:", predicted_class)
+        print("result:", predicted_class)
         return f"{str(predicted_class)}"
 #         plt.imshow(img)
 #         plt.axis('off')
@@ -114,17 +114,20 @@ class Handler(BaseHTTPRequestHandler):
         # Read the POST data
         post_data = self.rfile.read(content_length)
 
+        print(f"succesfully recieved an image! analyzing...")
+        #print(f"post data: {post_data}")
+
         # Parse the data using urllib.parse
         parsed_data = urllib.parse.parse_qs(post_data.decode())
 
         # Print parsed data for debugging
-        print("Parsed POST Data:", post_data)
+        #print("Parsed POST Data:", post_data.decode())
 
         # Respond back to the client
         self.send_response(200)
         self.send_header('Content-type', 'text/html')
         self.end_headers()
-        message = run(post_data)
+        message = run(post_data.decode())
         if message is None:
             print("Message is None! Setting it to default message.")
             message = "Error: Message was None"
@@ -132,7 +135,7 @@ class Handler(BaseHTTPRequestHandler):
 
 # Run the server
 with HTTPServer(('', 8080), Handler) as server:
-    print("Server running on port 8000...")
+    print("Server running on port 8080...")
     server.serve_forever()
 
 

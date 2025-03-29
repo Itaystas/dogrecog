@@ -1,0 +1,204 @@
+{
+    "dogs": [{
+            "breed": "n02085936-Maltese_dog",
+            "life expectancy": "12-15 years",
+            "size": "small",
+            "weight": "3-4 kg",
+            "colors": "white",
+            "behavior": "Docile, Lively, Easygoing, Intelligent",
+            "trainability": "can learn basic commands quickly",
+            "grooming": "every 4 to 6 weeks"
+        }, {
+            "breed": "n02112018-Pomeranian",
+            "life expectancy": "12-16 years",
+            "size": "small",
+            "weight": "1.4-3.2 kg",
+            "colors": "White, Black, Blue, Red, Cream, Tan, Orange, Grey-shaded, Brown",
+            "behavior": "Playful, Intelligent, Extroverted, Lively, Friendly, Sociable, Active",
+            "trainability": "can be trained with patience and consistency",
+            "grooming": "every 4 to 6 weeks"
+        }, {
+            "breed": "n02111889-Samoyed",
+            "life expectancy": "12-14 years",
+            "size": "large",
+            "weight": "16-30 kg",
+            "colors": "White, White & Biscuit, Cream",
+            "behavior": "Lively, Friendly, Stubborn, Sociable",
+            "trainability": "highly trainable",
+            "grooming": "2 times a week"
+        }, {
+            "breed": "n02086240-Shih-Tzu",
+            "life expectancy": "10-16 years",
+            "size": "small",
+            "weight": "4-7.2 kg",
+            "colors": "Black, White, Brindle, Liver & White, Liver, Brown, Gold",
+            "behavior": "Playful, Clever, Affectionate",
+            "trainability": "Very trainable but stubborn",
+            "grooming": "every 4 to 6 weeks"
+        }, {
+            "breed": "n02110958-pug",
+            "life expectancy": "12-15 years",
+            "size": "small",
+            "weight": "8-9 kg",
+            "colors": "Black, Fawn, Silver Fawn, Apricot",
+            "behavior": "Charming, Playful, Mischievous, Calm",
+            "trainability": "highly trainable but stubborn",
+            "grooming": "every 3-4 weeks"
+        }, {
+            "breed": "n02099601-golden_retriever",
+            "life expectancy": "10-12 years",
+            "size": "medium",
+            "weight": "25-34 kg",
+            "colors": "Dark Golden, Light Golden, Cream, Golden",
+            "behavior": "Intelligent, Kind, Friendly, Reliable",
+            "trainability": "very easy to train",
+            "grooming": "at least once every 6 weeks"
+        }, {
+            "breed": "n02110185-Siberian_husky",
+            "life expectancy": "12-15 years",
+            "size": "medium",
+            "weight": "16-27 kg",
+            "colors": "White, Black, Gray & White, Sable & White, Black & tan, Silver-gray, Red & White, Black & White",
+            "behavior": "Intelligent, Outgoing, Friendly",
+            "trainability": "not easy to train",
+            "grooming": "2 times a month"
+        }, {
+            "breed": "n02094433-Yorkshire_terrier",
+            "life expectancy": "13-16 years",
+            "size": "small",
+            "weight": "2.8-4.3 kg",
+            "colors": "Blue & Tan, Black & Gold, Black & Tan",
+            "behavior": "Lively, Intelligent, Bold, Curios",
+            "trainability": "easy if they are not over-indulged and spoiled",
+            "grooming": "every 4-6 weeks"
+        }, {
+            "breed": "n02085620-Chihuahua",
+            "life expectancy": "12-20 years",
+            "size": "small",
+            "weight": "1.5-3 kg",
+            "colors": "Black, White, Fawn, Chocolate, Cream, Gold",
+            "behavior": "Lively, Aggressive, Quick, Devoted",
+            "trainability": "pretty hard to train",
+            "grooming": "at least once every 6 weeks"
+        }, {
+            "breed": "n02106550-Rottweiler",
+            "life expectancy": "8-10 years",
+            "size": "large",
+            "weight": "35-60 kg",
+            "colors": "Black, Tan, Mahogany",
+            "behavior": "Obedient, Good-natured, Fearless, Strong",
+            "trainability": "highly trainable",
+            "grooming": "every 6 weeks to 2 months"
+        }, {
+            "breed": "n02107142-Doberman",
+            "life expectancy": "10-13 years",
+            "size": "large",
+            "weight": "32-45 kg",
+            "colors": "Black, White, Fawn, Red & Rust, Black & Rust, Blue & Rust, Fawn & Rust, Red, Blue",
+            "behavior": "Intelligent, Obedient, Loyal, Energetic",
+            "trainability": "relatively easy to train",
+            "grooming": "every 1 to 6 weeks"
+        }, {
+            "breed": "n02102318-cocker_spaniel",
+            "life expectancy": "11-12 years",
+            "size": "medium",
+            "weight": "11-14 kg",
+            "colors": "Black, Blue Roan, Orange Roan, Black & Tan, Liver Roan",
+            "behavior": "Playful, Affectionate, Friendly, Faithful, Quiet",
+            "trainability": "easy to train",
+            "grooming": "every 3 months"
+        }, {
+            "breed": "n02093428-American_Staffordshire_terrier",
+            "life expectancy": "12-16 years",
+            "size": "medium",
+            "weight": "18-32 kg",
+            "colors": "Black, White, Brindle, Fawn, Sable, Brown, Blue",
+            "behavior": "Tenacious, Friendly, Loyal, Devoted, Attentive",
+            "trainability": "highly trainable",
+            "grooming": "only bathe every 4 to 6 weeks"
+        }, {
+            "breed": "n02086079-Pekinese",
+            "life expectancy": "12-15 years",
+            "size": "small",
+            "weight": "3.2-6.4 kg",
+            "colors": "White, Black, Fawn, Fawn Brindle, Black & Tan, Cream, Gray",
+            "behavior": " Affectionate, Intelligent, Opinionated, Aggressive, Good-natured, Stubborn",
+            "trainability": "very trainable",
+            "grooming": "once a month"
+        }, {
+            "breed": "n02088364-beagle",
+            "life expectancy": "12-15 years",
+			"size": "small",
+            "weight": "9-14 kg",
+            "colors": "tricolor, black, tan, red, white, brown, blue, red",
+            "behavior": "Even Tempered, Intelligent, Friendly, Amiable, Bold",
+            "trainability": "can be difficult to train",
+            "grooming": "once a month"
+            
+        }, {
+            "breed": "n02091134-whippet",
+            "life expectancy": "12-15 years",
+			"size": "medium",
+            "weight": "6.8–19 kg",
+            "colors": "fawn, red, orange, tan, cream, black, and blue",
+            "behavior": "Lively, Intelligent, Friendly, Affectionate, Gentle",
+            "trainability": "fairly easy to train as long as you have proper motivation for them",
+            "grooming": "only bathe every 3 months"
+            
+        }, {
+            "breed": "n02097047-miniature_schnauzer",
+            "life expectancy": "12-15 years",
+            "size": "small",
+            "weight": "4.5-8.2 kg",
+            "colors": "Black, White, Salt & Pepper, Black & Silver",
+            "behavior": "Intelligent, Obedient, Friendly",
+            "trainability": "easy to train",
+            "grooming": "every 4 to 6 weeks"
+        }, {
+            "breed": "n02099712-Labrador_retriever",
+            "life expectancy": "10-12 years",
+            "size": "large",
+            "weight": "25-36 kg",
+            "colors": "Black, Chocolate, Yellow",
+            "behavior": "Outgoing, Even Tempered, Intelligent, Kind, Friendly",
+            "trainability": "highly trainable",
+            "grooming": "once a week"
+        }, {
+            "breed": "n02106030-collie",
+            "life expectancy": "12-15 years",
+            "size": "meduim",
+            "weight": "14-20 kg",
+            "colors": "sable and white, tricolor, blue merle, or white",
+            "behavior": "Intelligent, Friendly, Loyal, Protective, Gentle",
+            "trainability": "very smart and easy to train",
+			"grooming": "every 4 to 8 weeks"
+        }, {
+            "breed": "n02107312-miniature_pinscher",
+            "life expectancy": "12-16 years",
+            "size": "small",
+            "weight": "3.6-4.5 years",
+            "colors": "Black & Rust, Stag Red, Chocolate & Rust, Black & Tan, Chocolate & Tan, Red",
+            "behavior": "Clever, Outgoing, Responsive, Friendly, Energetic, Assertive",
+            "trainability": "high trainability level",
+            "grooming": "minimal grooming"
+        }, {
+            "breed": "n02113186-Cardigan",
+            "life expectancy": "12-15 years",
+            "size": "small",
+            "weight": "11-17 years",
+            "colors": "Merle, Brindle & White, Blue Merle & White, Sable & White, Red & White, Black & White",
+            "behavior": "Intelligent, Affectionate, Alert, Devoted, Active, Companionable",
+            "trainability": "relatively easy to train",
+            "grooming": "about twice a week, just to remove any loose and dead hairs"
+        }, {
+            "breed": "n02113624-toy_poodle",
+            "life expectancy": "10-18 years",
+            "size": "small",
+            "weight": "2-3 kg",
+            "colors": "Black, White, Apricot, Cream, Sable, Black & White, Grey, Silver, Brown, Red, Blue",
+            "behavior": " Intelligent, Alert, Faithful, Active, Instinctual",
+            "trainability": "easy to train",
+            "grooming": "every 4 to 6 weeks"
+        },
+    ]
+}

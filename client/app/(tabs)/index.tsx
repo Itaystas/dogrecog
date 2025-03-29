@@ -13,7 +13,7 @@ export default function HomeScreen()
   const sendImage = (base64Data : string | undefined | null)=>
   {
       console.log(base64Data);
-      fetch("https://8ac7-83-229-2-0.ngrok-free.app/hello", {
+      fetch("https://obviously-needed-crab.ngrok-free.app/hello", {
         
         method:"POST",
         headers: {
