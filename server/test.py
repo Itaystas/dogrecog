@@ -133,9 +133,10 @@ class Handler(BaseHTTPRequestHandler):
             message = "Error: Message was None"
         self.wfile.write(message.encode("utf8"))
 
-# Run the server
-with HTTPServer(('', 8080), Handler) as server:
-    print("Server running on port 8080...")
-    server.serve_forever()
+def run_server(port):
+    # Run the server
+    with HTTPServer(('', port), Handler) as server:
+        print(f"Server running on port {port}...")
+        server.serve_forever()
 
 
